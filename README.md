@@ -10,11 +10,7 @@ Specs
 Working 
 - Everything
 
-Not Working
--        
-
-
-
 To Do
+- 
 Download GenSMBIOS and create your own SMBIOS to get apple services working,
 create macOS install USB and enjoy!
