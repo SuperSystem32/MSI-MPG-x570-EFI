@@ -1,4 +1,4 @@
-////Specs
+Specs
 - MSI MPG x570 Gaming Edge Wifi
 - Ryzen 5 3600
 - Corsair Vengance 3200mhz RAM 16 GB
@@ -7,14 +7,14 @@
 - 2x WD Blue 1TB HDD
 - Fenvi T919 Wifi/Bluetooth Card
 
-////Working 
+Working 
 - Everything
 
-////Not Working
+Not Working
 -        
 
 
 
-//// TO DO 
+To Do
 Download GenSMBIOS and create your own SMBIOS to get apple services working,
 create macOS install USB and enjoy!
